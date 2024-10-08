@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Spencer Sharp</title>
+        <link>undefined</link>
+        <description>Your blog description</description>
+        <lastBuildDate>Tue, 08 Oct 2024 02:20:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Spencer Sharp</title>
+            <url>undefined/favicon.ico</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2024</copyright>
+        <item>
+            <title><![CDATA[Start Over - A New Beginning]]></title>
+            <link>undefined/articles/start-over</link>
+            <guid>undefined/articles/start-over</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ongoing]]></description>
+            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+        </item>
+        <item>
+            <title><![CDATA[My Life as a Community / Company Volunteer]]></title>
+            <link>undefined/articles/vinzvinci-life</link>
+            <guid>undefined/articles/vinzvinci-life</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ongoing]]></description>
+            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+        </item>
+        <item>
+            <title><![CDATA[Helping you to build your Personal Branding]]></title>
+            <link>undefined/articles/personal-branding</link>
+            <guid>undefined/articles/personal-branding</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your personal branding is concrete proof to showcase your interest and expertise. Join me as I am sharing my experience on how I built my Personal Branding in Tech.]]></description>
+            <content:encoded><![CDATA[<img alt="" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpersonal-branding-image.0a606b6e.webp&amp;w=1080&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpersonal-branding-image.0a606b6e.webp&amp;w=2048&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpersonal-branding-image.0a606b6e.webp&amp;w=2048&amp;q=75" width="1000" height="420" decoding="async" data-nimg="1" loading="lazy" style="color:transparent"/>
+<p>My room is just less average than the rest, I don&#x27;t have a cool background or dazzling furniture for you to see behind me as other people have, lols, but the SWAG helps brighten and fill the gaps in my empty room. In the same way this is how my personal brand helped me to get a job and still receive job offers from other companies.</p>
+<p>P.S
+I&#x27;m still going to improve and customize my place soon and put the SWAG in the right place.</p>
+<p>Before we start, I want to introduce myself :)</p>
+<h3>About me</h3>
+<p>I&#x27;m Vincent Villafuerte also known as vinzvinci. I&#x27;m currently in my 3rd-year of college and taking a Bachelor of Science in Information Systems. I&#x27;m passionate about community development and content writing. I created my GitHub account on October 19, 2020, because of Hacktoberfest.</p>
+<h4>Current roles:</h4>
+<ul>
+<li>Microsoft Learn Student Ambassador (Batch - January 2021)</li>
+<li>1st GitHub Campus Expert in the Philippines (Batch - February 2021)</li>
+<li>Developer Relations Intern at <a href="http://devprotocol.xyz/">Dev Protocol</a> (Started - June 2021)</li>
+<li>I founded <a href="https://github.com/SurPathHub/">SurPath Hub</a> &amp; <a href="https://github.com/WebXDAO">WebX DAO</a> - Open Source Community</li>
+</ul>
+<p>If you&#x27;re asking how did I get those roles so fast, I also don&#x27;t know why :smile:, but maybe the tips I give below helped me on my journey in tech :rocket:</p>
+<h3>Get started</h3>
+<p>My personal branding helped me achieve my goals. I want to share with y&#x27;all the tips that helped me.</p>
+<p>Personal branding isn&#x27;t just for someone who owns a business and who puts their product on the market. It can also be for you; you may want to be known as an aspiring blockchain developer or an aspiring software engineer, or a student developer who likes to lead their peers. It&#x27;s how you promote yourself in different social media and this may be the reason that you get hired, because of your personal branding.</p>
+<p>Your personal branding is concrete proof to showcase your interest and expertise. It is how you demonstrate to your employer that you are valuable and make them feel that you are the one who they&#x27;re looking for. Some folks don&#x27;t really realize how important their personal brand is and this is one of the reasons why it is hard for them to get a job even they have great skills.</p>
+<p>Don&#x27;t worry if you are new, it is not too late to get started because</p>
+<h3>I am giving you 8 tips to build your personal brand and make friends in the tech industry</h3>
+<h4>1. Use your real name, same username, and same profile picture to all of your social media</h4>
+<blockquote>
+<p>You don&#x27;t need to use all of the social media you have, but you can use your <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a>, <a href="https://twitter.com/vinzvinci">Twitter</a> and your <a href="https://github.com/vinzvinci">GitHub profile</a> only like I did.</p>
+</blockquote>
+<h4>2. Build your own unique GitHub profile</h4>
+<blockquote>
+<p>Introduce yourself, showcase your interests, what fields are you passionate about, and let your personal project speak for your skills.</p>
+</blockquote>
+<blockquote>
+<p>If you need help, you can visit this <a href="https://github.com/SurPathHub/github-profile-ph#github-profiles">repository</a> to get some ideas.</p>
+</blockquote>
+<h4>3. Contribute to open source</h4>
+<blockquote>
+<p>Well, you don&#x27;t need to make a lot of projects but contributing to open source is also one of the best ways to make your GitHub profile look more interesting.</p>
+</blockquote>
+<h4>4. Join Open Source Community</h4>
+<blockquote>
+<p>If you want a friend to guide you on your open source journey, you can join an open source community like <a href="eddiehub.org">EddieHub</a> or a hackathon community like <a href="https://mlh.io/">MLH</a>. These communities will help you to accelerate your learning. There&#x27;s a lot of communities out there, you can search or find them on Twitter.</p>
+</blockquote>
+<blockquote>
+<p>EddieHub Community is where I started and the community has done so many things for my life.</p>
+</blockquote>
+<blockquote>
+<p>Once you join to the community, one thing to keep in mind is to follow community rules.</p>
+</blockquote>
+<h4>5. Collaboration</h4>
+<blockquote>
+<p>At <a href="https://www.eddiehub.org/">EddieHub Community</a>, we believe <strong>collaboration</strong> first, <strong>code</strong> second. This is very accurate, because if you don&#x27;t have collaboration skills then it will be hard for your teammate to collaborate with you and know you as well. So try to overcome your shyness, don&#x27;t worry everyone is friendly. If you are worried about failing, it is okay because it is part of your journey.</p>
+</blockquote>
+<h4>6. Join Hackathon</h4>
+<blockquote>
+<p>Here you will meet a lot of great folks. Joining a hackathon is also one of the best ways to accelerate your learning, make connections, and collaborating with other people. Don&#x27;t waste the opportunity to introduce yourself there because you can&#x27;t expect the opportunity.</p>
+</blockquote>
+<h4>7. Create your own Portfolio</h4>
+<blockquote>
+<p>Here you can also showcase everything you love. If you lack the experience to code your portfolio, you can learn first and do it next time. Let your GitHub profile showcase your interest and the work you do while you don&#x27;t have a portfolio. Some employers are looking at the GitHub profile :wink:</p>
+</blockquote>
+<h4>8. Build your resume</h4>
+<blockquote>
+<p>Of course, if you are applying for a job, you need a resume, so better to give your best shot at writing this. If you want people to review your resume, you can make an issue on the <a href="https://github.com/EddieHubCommunity/support/issues">EddieHub support repository</a> or if you just want to have an insight from them, you can read their feedback <a href="https://github.com/EddieHubCommunity/support/issues?q=is%3Aissue+is%3Aclosed+resume+label%3A%22live+stream+review%22">here</a>.</p>
+</blockquote>
+<p>Personal branding will help you stand out from the crowd and get your dream job at an early age.</p>
+<p>I hope this will help you achieve your goal. Never stop dreaming, never stop learning, never stop the collaboration, and soon you will achieve your dream job. Good luck with your career and take care of your health!</p>
+<p>Main article at <a href="https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df">dev.to</a></p>]]></content:encoded>
+            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+        </item>
+    </channel>
+</rss>
